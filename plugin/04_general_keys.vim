@@ -30,17 +30,9 @@ map <F8> :TlistToggle<cr>
 vmap <F8> <esc>:TlistToggle<cr>
 imap <F8> <esc>:TlistToggle<cr>
 
-map <F9> :make<cr>
-vmap <F9> <esc>:make<cr>
-imap <F9> <esc>:make<cr>
-
 map <F10> :bd<cr>
 vmap <F10> <esc>:bd<cr>
 imap <F10> <esc>:bd<cr>
-
-map <F11> :Ex<cr>
-vmap <F11> <esc>:Ex<cr>
-imap <F11> <esc>:Ex<cr>
 
 vmap < <gv
 vmap > >gv
