@@ -1,2 +1,2 @@
-nmap <silent> <Leader>p :NERDTreeFind<CR>
-nmap <silent> <Leader>n :NERDTreeToggle<CR>
+nmap <silent> <Leader>p :NERDTreeToggle<CR>
+nmap <silent> <Leader>l :NERDTreeFind<CR>
